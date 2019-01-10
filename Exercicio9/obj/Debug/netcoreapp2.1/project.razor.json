@@ -1,0 +1,14 @@
+{
+  "ProjectFilePath": "c:\\Users\\Anderson Passos\\Documents\\Projetos programação\\Lista01\\Exercicio9\\Exercicio9.csproj",
+  "TargetFramework": "netcoreapp2.1",
+  "TagHelpers": [],
+  "Configuration": {
+    "ConfigurationName": "UnsupportedRazor",
+    "LanguageVersion": "1.0",
+    "Extensions": [
+      {
+        "ExtensionName": "UnsupportedRazorExtension"
+      }
+    ]
+  }
+}

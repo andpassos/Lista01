@@ -1,0 +1,11 @@
+C:\Users\Anderson Passos\Documents\Projetos programação\Lista01\Exercicio9\bin\Debug\netcoreapp2.1\Exercicio9.deps.json
+C:\Users\Anderson Passos\Documents\Projetos programação\Lista01\Exercicio9\bin\Debug\netcoreapp2.1\Exercicio9.runtimeconfig.json
+C:\Users\Anderson Passos\Documents\Projetos programação\Lista01\Exercicio9\bin\Debug\netcoreapp2.1\Exercicio9.runtimeconfig.dev.json
+C:\Users\Anderson Passos\Documents\Projetos programação\Lista01\Exercicio9\bin\Debug\netcoreapp2.1\Exercicio9.dll
+C:\Users\Anderson Passos\Documents\Projetos programação\Lista01\Exercicio9\bin\Debug\netcoreapp2.1\Exercicio9.pdb
+C:\Users\Anderson Passos\Documents\Projetos programação\Lista01\Exercicio9\obj\Debug\netcoreapp2.1\Exercicio9.csprojAssemblyReference.cache
+C:\Users\Anderson Passos\Documents\Projetos programação\Lista01\Exercicio9\obj\Debug\netcoreapp2.1\Exercicio9.csproj.CoreCompileInputs.cache
+C:\Users\Anderson Passos\Documents\Projetos programação\Lista01\Exercicio9\obj\Debug\netcoreapp2.1\Exercicio9.AssemblyInfoInputs.cache
+C:\Users\Anderson Passos\Documents\Projetos programação\Lista01\Exercicio9\obj\Debug\netcoreapp2.1\Exercicio9.AssemblyInfo.cs
+C:\Users\Anderson Passos\Documents\Projetos programação\Lista01\Exercicio9\obj\Debug\netcoreapp2.1\Exercicio9.dll
+C:\Users\Anderson Passos\Documents\Projetos programação\Lista01\Exercicio9\obj\Debug\netcoreapp2.1\Exercicio9.pdb
